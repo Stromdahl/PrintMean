@@ -4,6 +4,12 @@ public class PrintMean {
 
     public static void main(String[] args) {
         //New test comment
+        //Test branch
+        //Test branch
+        //Test branch
+        //Test branch
+        //Test branch
+        //Test branch
 
 
         //Print mean
