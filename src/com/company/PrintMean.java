@@ -3,6 +3,7 @@ package com.company;
 public class PrintMean {
 
     public static void main(String[] args) {
+        //Print mean
         System.out.println("Mean of 1, 1, 3, 3: " + meanCalc(1d, 1d, 3d, 3d));
         System.out.println("Mean of 1, 2, 3, 4: " + meanCalc(1d, 2d, 3d, 4d));
         System.out.println("Mean of 1, -2, 3, -4: " + meanCalc(1d, -2d, 3d, -4d));
