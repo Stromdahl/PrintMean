@@ -4,7 +4,12 @@ public class PrintMean {
 
     public static void main(String[] args) {
         //New test comment
-
+        // Branch Master
+        // Branch Master
+        // Branch Master
+        // Branch Master
+        // Branch Master
+        // Branch Master
 
         //Print mean
         System.out.println("Mean of 1, 1, 3, 3: " + meanCalc(1d, 1d, 3d, 3d));
